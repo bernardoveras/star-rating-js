@@ -1,5 +1,3 @@
-----
-
 # Preview:
 
-![](.github/preview.mp4)
+![](.github/preview.gif)
